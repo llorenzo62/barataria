@@ -10,3 +10,8 @@ Decepcionante no haber conseguido ejecutar ninguna de las versiones del `AWD-LST
 Puede ser muy interesante la librería [`IpExperiments`](https://github.com/stas00/ipyexperiments) para ajustar con garantías el *batch_size* y/o el tamaño del modelo.
 
 Otro hallazgo puede ser [`numba`](https://numba.readthedocs.io/en/stable/user/jit.html), que permite gestionar la GPU desde python 
+
+Que bien el desarrrollo de python; la librería `Path`, `match` (==`case` de `C` y otros, a partir de python 10....)
+
+
+
