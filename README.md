@@ -1,7 +1,7 @@
 # barataria
 > _El lugar donde se desvanecen los sueños_
 
-Impresionante la librería/proyecto [`fastai`](https://www.fast.ai/). El [libro](https://course.fast.ai/) en [versión notebook](https://github.com/fastai/course20/tree/master/) es muy ameno e informativo. 
+Impresionante la librería/proyecto [`fastai`](https://www.fast.ai/). El [libro](https://course.fast.ai/) en [versión notebook](https://github.com/fastai/course20/tree/master/) es muy ameno e informativo. Una dirección interesante puede ser [fastai forums](https://forums.fast.ai/c/fastai-users/fastai-dev/)
 
 La GPU quedó probada a satistacción. `pytorch` se demuestra un entorno mas fiable que `tensorflow` (estarán más orientados a TPU, que viene a ser un invento suyo??).
 
